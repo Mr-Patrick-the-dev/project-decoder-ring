@@ -4,9 +4,9 @@ Sometimes, privacy in your messages is a necessity.
 
 ## Tools Used
 
-This project makes use of JavaScript, CSS, and HTML.
+This project makes use of JavaScript, BootStrap, and HTML.
 
-The project itself uses a template for CSS and HTML, while the JavaScript was created personally (algorithms included).
+The project itself uses a template for BootStrap and HTML, while the JavaScript was created personally (algorithms included).
 
 ## Usage
 
