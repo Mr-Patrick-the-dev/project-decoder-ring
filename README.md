@@ -15,10 +15,9 @@ The purpose of this project is to allow users to both encode and decode messages
 ## Features
 
 This project includes 3 different cipher methods to utilize:
-  -Caesar Cipher; shifts letters to the right or left based on a provided shift number and the typical alphabetical order.
-  -Polybius Cipher; arranges a typical alphabet into a grid, where each letter is represented by a coordinate
-  -Substitution Cipher; takes a standard alphabet and a make-shift alphabet, and the standard letters get replaced with the make-shift letters
-    -Requires the recipient to have the substituion alphabet
+1.Caesar Cipher; shifts letters to the right or left based on a provided shift number and the typical alphabetical order.
+2.Polybius Cipher; arranges a typical alphabet into a grid, where each letter is represented by a coordinate
+3.Substitution Cipher; takes a standard alphabet and a make-shift alphabet, and the standard letters get replaced with the make-shift letters (reciever needs substitute alphabet)
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
